@@ -6,15 +6,14 @@
 - 👯 I’m looking to collaborate with other app developers and UI/UX designers
 - ⚡ Fun fact: I love to read and learn new skills in my downtime
 
+---
+
 ### Connect with me:
 
 [<img align="left" alt="BlaineBeltran.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Blaine Beltran | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-<br />
-<br />
-
 
 ### Languages and Tools
 
