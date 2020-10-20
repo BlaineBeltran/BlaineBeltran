@@ -10,6 +10,9 @@
 
 ---
 
+## Examples of Work
+<img src="https://user-images.githubusercontent.com/55524257/96609976-bedb5c80-12c0-11eb-88cf-57f6ec371894.gif" width="256" />
+
 ### Connect with me:
 
 [<img align="left" alt="BlaineBeltran.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
