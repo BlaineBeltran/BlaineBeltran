@@ -5,7 +5,7 @@
 ## I'm a Software/Cyber Security student that has a passion to develope and design
 - 📱/💻 I’m currently working on a [App][website]!
 - 🌱 I’m currently learning everything 
-- 🌎git  I’m looking to collaborate with other app developers and UI/UX designers
+- 🌎 I’m looking to collaborate with other app developers and UI/UX designers
 - ⚡ Fun fact: I love to read and learn new skills in my downtime
 
 ---
