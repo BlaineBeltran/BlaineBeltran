@@ -22,9 +22,9 @@
 
 ### Languages and Tools
 
-<img align="left" alt="Visual Studio Code" width="26px" height="26" src="https://user-images.githubusercontent.com/55524257/119240883-626f4280-bb18-11eb-898f-c17e3f52b990.png" />
+<img align="left" alt="Visual Studio Code" width="40px" height="40" src="https://user-images.githubusercontent.com/55524257/119241590-31ddd780-bb1d-11eb-87e6-bb3199ad2d16.png" />
 
-<img align="left" alt="Xcode" width="35px" height="35" src="https://user-images.githubusercontent.com/55524257/119240894-8df22d00-bb18-11eb-86e8-258eddb51222.png" />
+<img align="left" alt="Xcode" width="40px" height="40" src="https://user-images.githubusercontent.com/55524257/119241583-27bbd900-bb1d-11eb-9296-e59b2faae169.png" />
 
 <img align="left" alt="Swift" width="26px" height="26" src="https://user-images.githubusercontent.com/55524257/119240947-e1647b00-bb18-11eb-849f-1d6260573681.png" />
 
@@ -40,10 +40,6 @@
 
 <br />
 <br />
-
----
-![Xcode](https://user-images.githubusercontent.com/55524257/119241583-27bbd900-bb1d-11eb-9296-e59b2faae169.png)
-![VSCOde](https://user-images.githubusercontent.com/55524257/119241590-31ddd780-bb1d-11eb-87e6-bb3199ad2d16.png)
 
 ---
 
