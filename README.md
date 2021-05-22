@@ -30,6 +30,10 @@
 
 <img align="left" alt="Python" width="40px" height="40" src="https://user-images.githubusercontent.com/55524257/119241719-3060df00-bb1e-11eb-9317-60fae49393a8.png" />
 
+<img align="left" alt="Figma" width="40px" height="40" src="https://user-images.githubusercontent.com/55524257/119241893-5fc41b80-bb1f-11eb-9899-9eee5b5c0cb1.png" />
+
+<img align="left" alt="Adobe XD" width="40px" height="40" src="https://user-images.githubusercontent.com/55524257/119241900-6b174700-bb1f-11eb-8c0d-e6eb594240b4.png" />
+
 <img align="left" alt="Git" width="40px" height="40" src="https://user-images.githubusercontent.com/55524257/119241765-803fa600-bb1e-11eb-8f07-2bc51c373375.png" />
 
 <img align="left" alt="GitHub" width="40px" height="40" src="https://user-images.githubusercontent.com/55524257/119241781-a9603680-bb1e-11eb-97f7-ab4b9e470685.png" />
