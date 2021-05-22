@@ -11,7 +11,7 @@
 ---
 
 ## Examples of Work
-<img src="https://user-images.githubusercontent.com/55524257/96609976-bedb5c80-12c0-11eb-88cf-57f6ec371894.gif" width="256" />
+<img src="https://user-images.githubusercontent.com/55524257/119242311-78820080-bb22-11eb-92e6-93630ae79b1b.mov" width="600" />
 
 ### Connect with me:
 
