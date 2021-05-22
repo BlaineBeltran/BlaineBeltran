@@ -10,7 +10,8 @@
 
 ---
 
-## Examples of Work
+## Example of Work
+Video
 <img src="https://user-images.githubusercontent.com/55524257/119242311-78820080-bb22-11eb-92e6-93630ae79b1b.mov" width="600" />
 
 ### Connect with me:
