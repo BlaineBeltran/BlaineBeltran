@@ -15,8 +15,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="BlaineBeltran.com" width="22px" src="https://user-images.githubusercontent.com/55524257/119241018-47510280-bb19-11eb-98d6-dc994598af76.png" />][website]
-[<img align="left" alt="Blaine Beltran | LinkedIn" width="22px" height="26" src="https://user-images.githubusercontent.com/55524257/119240537-c6443c00-bb15-11eb-9159-eab3c8c1d32c.png" />][linkedin]
+[<img align="left" alt="BlaineBeltran.com" width="40px" height="40" src="https://user-images.githubusercontent.com/55524257/119241738-56867f00-bb1e-11eb-920f-e52a12508ece.png" />][website]
+[<img align="left" alt="Blaine Beltran | LinkedIn" width="40px" height="40" src="https://user-images.githubusercontent.com/55524257/119241728-3eaefb00-bb1e-11eb-9595-ef84a3c99bf5.png" />][linkedin]
 
 <br />
 
@@ -26,17 +26,17 @@
 
 <img align="left" alt="Xcode" width="40px" height="40" src="https://user-images.githubusercontent.com/55524257/119241583-27bbd900-bb1d-11eb-9296-e59b2faae169.png" />
 
-<img align="left" alt="Swift" width="26px" height="26" src="https://user-images.githubusercontent.com/55524257/119240947-e1647b00-bb18-11eb-849f-1d6260573681.png" />
+<img align="left" alt="Swift" width="40px" height="40" src="https://user-images.githubusercontent.com/55524257/119241704-14f5d400-bb1e-11eb-96f2-cfb5605c7825.png" />
 
-<img align="left" alt="Python" width="26px" height="26" src="https://user-images.githubusercontent.com/55524257/89429624-68b83d80-d703-11ea-9394-96e025ed90d7.png" />
+<img align="left" alt="Python" width="40px" height="40" src="https://user-images.githubusercontent.com/55524257/119241719-3060df00-bb1e-11eb-9317-60fae49393a8.png" />
 
-<img align="left" alt="Java" width="26px" height="26" src="https://user-images.githubusercontent.com/55524257/89431053-0eb87780-d705-11ea-8e52-700fbcac13be.png" />
+<img align="left" alt="Git" width="40px" height="40" src="https://user-images.githubusercontent.com/55524257/119241765-803fa600-bb1e-11eb-8f07-2bc51c373375.png" />
 
-<img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/55524257/119240610-613d1600-bb16-11eb-8f82-6be4f075ae54.png" />
+<img align="left" alt="GitHub" width="26px" height="40" src="https://user-images.githubusercontent.com/55524257/119241781-a9603680-bb1e-11eb-97f7-ab4b9e470685.png" />
 
-<img align="left" alt="GitHub" width="26px" height="26" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Teams" width="26px" height="40" src="https://user-images.githubusercontent.com/55524257/119241788-bbda7000-bb1e-11eb-86a6-7e7b25fd7a4a.png" />
 
-<img align="left" alt="Terminal" width="26px" height="26" src="https://github.com/BlaineBeltran/FoodPin/files/6527177/6780b850e811244b71e6d2a4897a7e36_Powershell.pdf" />
+<img align="left" alt="Terminal" width="26px" height="40" src="https://user-images.githubusercontent.com/55524257/119241794-c8f75f00-bb1e-11eb-9a67-dd8833677863.png" />
 
 <br />
 <br />
