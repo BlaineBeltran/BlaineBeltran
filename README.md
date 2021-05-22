@@ -32,11 +32,11 @@
 
 <img align="left" alt="Git" width="40px" height="40" src="https://user-images.githubusercontent.com/55524257/119241765-803fa600-bb1e-11eb-8f07-2bc51c373375.png" />
 
-<img align="left" alt="GitHub" width="26px" height="40" src="https://user-images.githubusercontent.com/55524257/119241781-a9603680-bb1e-11eb-97f7-ab4b9e470685.png" />
+<img align="left" alt="GitHub" width="40px" height="40" src="https://user-images.githubusercontent.com/55524257/119241781-a9603680-bb1e-11eb-97f7-ab4b9e470685.png" />
 
-<img align="left" alt="Teams" width="26px" height="40" src="https://user-images.githubusercontent.com/55524257/119241788-bbda7000-bb1e-11eb-86a6-7e7b25fd7a4a.png" />
+<img align="left" alt="Teams" width="40px" height="40" src="https://user-images.githubusercontent.com/55524257/119241788-bbda7000-bb1e-11eb-86a6-7e7b25fd7a4a.png" />
 
-<img align="left" alt="Terminal" width="26px" height="40" src="https://user-images.githubusercontent.com/55524257/119241794-c8f75f00-bb1e-11eb-9a67-dd8833677863.png" />
+<img align="left" alt="Terminal" width="40px" height="40" src="https://user-images.githubusercontent.com/55524257/119241794-c8f75f00-bb1e-11eb-9a67-dd8833677863.png" />
 
 <br />
 <br />
