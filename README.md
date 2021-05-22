@@ -11,8 +11,8 @@
 ---
 
 ## Example of Work
-<img src="https://user-images.githubusercontent.com/55524257/119242311-78820080-bb22-11eb-92e6-93630ae79b1b.mov" width="600" />
-https://user-images.githubusercontent.com/55524257/119242311-78820080-bb22-11eb-92e6-93630ae79b1b.mov
+
+https://user-images.githubusercontent.com/55524257/119242311-78820080-bb22-11eb-92e6-93630ae79b1b.mp4
 
 ### Connect with me:
 
