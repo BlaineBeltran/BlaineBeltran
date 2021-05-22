@@ -16,7 +16,7 @@
 ### Connect with me:
 
 [<img align="left" alt="BlaineBeltran.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Blaine Beltran | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/55524257/119240336-7ca72180-bb14-11eb-878d-973b57319a63.png" />][linkedin]
+[<img align="left" alt="Blaine Beltran | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/55524257/119240537-c6443c00-bb15-11eb-9159-eab3c8c1d32c.png" />][linkedin]
 
 <br />
 
