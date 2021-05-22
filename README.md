@@ -15,40 +15,28 @@
 
 ### Connect with me:
 
-[<img align="left" alt="BlaineBeltran.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="BlaineBeltran.com" width="22px" src="https://user-images.githubusercontent.com/55524257/119241018-47510280-bb19-11eb-98d6-dc994598af76.png" />][website]
 [<img align="left" alt="Blaine Beltran | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/55524257/119240537-c6443c00-bb15-11eb-9159-eab3c8c1d32c.png" />][linkedin]
 
 <br />
 
 ### Languages and Tools
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://user-images.githubusercontent.com/55524257/119240883-626f4280-bb18-11eb-898f-c17e3f52b990.png" />
+
+<img align="left" alt="Xcode" width="26px" src="https://user-images.githubusercontent.com/55524257/119240894-8df22d00-bb18-11eb-86e8-258eddb51222.png" />
+
+<img align="left" alt="Swift" width="26px" src="https://user-images.githubusercontent.com/55524257/119240947-e1647b00-bb18-11eb-849f-1d6260573681.png" />
 
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/55524257/89429624-68b83d80-d703-11ea-9394-96e025ed90d7.png" />
 
 <img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/55524257/89431053-0eb87780-d705-11ea-8e52-700fbcac13be.png" />
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/55524257/119240610-613d1600-bb16-11eb-8f82-6be4f075ae54.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terminal" width="26px" src="https://github.com/BlaineBeltran/FoodPin/files/6527177/6780b850e811244b71e6d2a4897a7e36_Powershell.pdf" />
 
 <br />
 <br />
