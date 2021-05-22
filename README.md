@@ -20,7 +20,7 @@
 
 <br />
 <br />
-<br />
+
 ### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="40px" height="40" src="https://user-images.githubusercontent.com/55524257/119241590-31ddd780-bb1d-11eb-87e6-bb3199ad2d16.png" />
