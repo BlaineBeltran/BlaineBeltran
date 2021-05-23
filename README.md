@@ -3,16 +3,17 @@
 # Hi there, I'm [Blaine][linkedin] 👋
 
 ## I'm a Software Engineering student that has a passion to develope and design
-- 📱/💻 I’m currently working on a [App][website]!
-- 🌱 I’m currently learning everything 
+- 📱/💻 I’m currently working as an iOS App
+- 🌱 I’m currently learning mobile development
 - 🌎 I’m looking to collaborate with other app developers and UI/UX designers
-- ⚡ Fun fact: I love to read and learn new skills in my downtime
+- 🤓 Fun fact: I love to read and learn new skills in my downtime
 
 ---
 
-## Example of Work
+## Examples of Work
 
-https://user-images.githubusercontent.com/55524257/119242311-78820080-bb22-11eb-92e6-93630ae79b1b.mp4
+https://user-images.githubusercontent.com/55524257/119244391-df5ce500-bb35-11eb-82b2-02e511b5a679.mp4
+https://user-images.githubusercontent.com/55524257/119244457-8772ae00-bb36-11eb-8cd8-059a0931b9a0.mp4
 
 ### Connect with me:
 
