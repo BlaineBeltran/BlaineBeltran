@@ -1,4 +1,4 @@
-![stuff](https://github.com/BlaineBeltran/BlaineBeltran/blob/master/GithubBanner2020.png)
+![stuff](https://user-images.githubusercontent.com/55524257/119419338-a9e40300-bcbf-11eb-8ef7-726ae3339eee.mp4)
 
 # Hi there, I'm [Blaine][linkedin] 👋
 
@@ -15,7 +15,7 @@
 ### 1.
 https://user-images.githubusercontent.com/55524257/119244391-df5ce500-bb35-11eb-82b2-02e511b5a679.mp4
 
-### 2. Turn your volume all the way up 😱
+### 2. Turn your volume ALL the way up 😱
 https://user-images.githubusercontent.com/55524257/119244457-8772ae00-bb36-11eb-8cd8-059a0931b9a0.mp4
 
 ### Connect with me:
