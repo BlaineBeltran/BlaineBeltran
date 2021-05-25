@@ -32,6 +32,8 @@ https://user-images.githubusercontent.com/55524257/119244457-8772ae00-bb36-11eb-
 
 <img align="left" alt="Xcode" width="40px" height="40" src="https://user-images.githubusercontent.com/55524257/119241583-27bbd900-bb1d-11eb-9296-e59b2faae169.png" />
 
+<img align="left" alt="Android Studio" width="40px" height="40" src="https://user-images.githubusercontent.com/55524257/119508943-d0448580-bd35-11eb-804f-5d02b150e028.png" />
+
 <img align="left" alt="Swift" width="40px" height="40" src="https://user-images.githubusercontent.com/55524257/119241704-14f5d400-bb1e-11eb-96f2-cfb5605c7825.png" />
 
 <img align="left" alt="Python" width="40px" height="40" src="https://user-images.githubusercontent.com/55524257/119241719-3060df00-bb1e-11eb-9317-60fae49393a8.png" />
@@ -45,6 +47,10 @@ https://user-images.githubusercontent.com/55524257/119244457-8772ae00-bb36-11eb-
 <img align="left" alt="GitHub" width="40px" height="40" src="https://user-images.githubusercontent.com/55524257/119241781-a9603680-bb1e-11eb-97f7-ab4b9e470685.png" />
 
 <img align="left" alt="Teams" width="40px" height="40" src="https://user-images.githubusercontent.com/55524257/119421330-152fd400-bcc4-11eb-8689-0ab3cef22825.png" />
+
+<img align="left" alt="Asana" width="40px" height="40" src="https://user-images.githubusercontent.com/55524257/119508936-ce7ac200-bd35-11eb-81ed-22f432c376cc.png" />
+
+<img align="left" alt="Jira" width="40px" height="40" src="https://user-images.githubusercontent.com/55524257/119508920-cae73b00-bd35-11eb-8795-98fb57444607.png" />
 
 <img align="left" alt="Terminal" width="40px" height="40" src="https://user-images.githubusercontent.com/55524257/119241794-c8f75f00-bb1e-11eb-9a67-dd8833677863.png" />
 
