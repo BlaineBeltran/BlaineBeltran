@@ -2,8 +2,8 @@
 
 # Hi there, I'm [Blaine][linkedin] 👋
 
-## I'm a Software Engineering student that has a passion to develop and design
-- 📱/💻 I’m currently working as an iOS App
+## I'm a Masters in CS student that has a passion to develop and design
+- 📱/💻 I’m currently working as an iOS Engineer
 - 🌱 I am learning mobile development
 - 🌎 Looking to collaborate with other app developers and UI/UX designers
 - 🤓 Fun fact: I love to read and learn new skills in my downtime
